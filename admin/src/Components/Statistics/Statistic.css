@@ -1,0 +1,7 @@
+/* Add this to your main CSS file */
+.custom-tooltip {
+  padding: 5px !important;
+  /* Adjust the padding value as needed */
+  border-radius: 4px;
+  /* Optional: round the corners for better appearance */
+}
